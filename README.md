@@ -1,6 +1,6 @@
 ### Hi there, I'm Garima 👋
 
-## I'm a Risk Consultant@EY, Front-End Enthusiast!
+## I'm a IA and Risk Consultant@EY, Front-End Enthusiast!
 
 - 🌱 I’m currently learning HTML/CSS/JS/React-JS from FreeCodeCamp & Udemy.
 - 👯 I’m looking to work with other FrontEnd collaboraters on new and exciting projects
