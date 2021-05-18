@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning HTML/CSS/JS/React-JS from FreeCodeCamp & Udemy.
 - 👯 I’m looking to work with other FrontEnd collaboraters on new and exciting projects
 - 🥅 2020 Goals: Contribute to Open Source projects, Build awesome reactive Apps for learning
-- ⚡ Fun fact: I am a Chartered Accountant, trying to become a Software developer
-
+- ⚡ Fun fact: I am a Chartered Accountant by qualification
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
